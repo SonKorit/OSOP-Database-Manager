@@ -1,0 +1,12 @@
+{
+  "projeAdı": "OSOP - Çoklu Veritabanı Yönetim Aracı",
+  "kategori": "Veritabanı Yönetimi",
+  "Yazar": "[Mikayil Hakkı Çakır]",
+  "sürüm": "1.0.0",
+  "Açıklama": "Docker tabanlı MySQL ve PostgreSQL yönetim otomasyonu.",
+  "özellikler": [
+    "Otomatik veritabanı kurulumu",
+    "Konteyner yönetimi",
+    "Docker Engine entegrasyonu"
+  ]
+}
